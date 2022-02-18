@@ -5,6 +5,7 @@
 <h1 align="center">Hola 👋, soy Gabriel Iñigo</h1>
 <h3 align="center">Desarrollador Web</h3>
 (https://www.tokioschool.com/wp-content/uploads/2021/07/LENGUAJES-PROGRAMACION.jpg)
+![](https://img.shields.io/twitter/follow/pablomarino8?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCyM-u7zHJDcUt4sE3wAa-yg?style=social)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginigo-arg&label=Profile%20views&color=0e75b6&style=flat" alt="ginigo-arg" /> </p>
 
