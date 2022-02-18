@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> !
+
 **ginigo-arg/ginigo-arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Gabriel Iñigo</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Gabriel Iñigo</h1>
+<h3 align="center">Desarrollador Web</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginigo-arg&label=Profile%20views&color=0e75b6&style=flat" alt="ginigo-arg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginigo-arg" alt="ginigo-arg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginigo-argma&theme=onedark" alt="ginigo-arg" /></a> </p>
 
 - 🔭 I’m currently working on [Hotel Recipe - Alkemy](https://github.com/ginigo-arg/hotel-recipes)
 
