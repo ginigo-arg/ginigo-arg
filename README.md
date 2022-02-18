@@ -1,6 +1,6 @@
-### Hola 👋, Gabriel Iñigo
+### Hola 👋, Soy Gabriel Iñigo
 #### Desarrollador Web
-![Desarrollador Web](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Desarrollador Web](https://www.tokioschool.com/wp-content/uploads/2022/02/programador-android-sueldo.jpg.webp)
 
 Apasionado por la tecnologia, autodidacta y detallista
 
