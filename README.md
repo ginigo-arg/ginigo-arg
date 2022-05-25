@@ -12,9 +12,8 @@
   ### Sistemas operativos
  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> 
 
-- 🔭 Estoy trabajando en https://github.com/ginigo-arg/hotel-recipes 
-- 🌱 Estoy aprendiendo Angular, TypeScript y mejorando en React
-- 💬 Pregúntame acerca de JS 
+
+- 🌱 Estoy aprendiendo TypeScript y mejorando en React
 - 📫 Cómo contactarme: gabrielinigo99@gmail.com 
 - 😄 Pronombres: Gabi 
 
